@@ -1,0 +1,5 @@
+openai
+google-cloud-texttospeech
+PyAudio
+SpeechRecognition
+pygame
